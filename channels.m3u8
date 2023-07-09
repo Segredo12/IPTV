@@ -16,7 +16,7 @@ http://2hubs.ddns.net:25461/BabNour/telegrramm/62059?checkedby:iptvcat.org
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",PT - SANTUARIO DE FATIMA HD
 http://2hubs.ddns.net:25461/BabNour/telegrramm/62060?checkedby:iptvcat.org
 #EXTINF: 0 tvg-country="PT" tvg-logo="" group-title="Undefined", PT - SIC
-http://93.152.174.144:4000/play/sic/index.m3u8
+https://sic.live.impresa.pt/sic.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png" group-title="Undefined",PT - TVI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
