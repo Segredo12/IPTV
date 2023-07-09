@@ -16,15 +16,11 @@ http://2hubs.ddns.net:25461/BabNour/telegrramm/62059?checkedby:iptvcat.org
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",PT - SANTUARIO DE FATIMA HD
 http://2hubs.ddns.net:25461/BabNour/telegrramm/62060?checkedby:iptvcat.org
 #EXTINF: 0 tvg-country="PT" tvg-logo="" group-title="Undefined", PT - SIC
-https://list.iptvcat.com/my_list/s/7746e8ce3a8bcd6cbc8e3b1997299348.m3u8
+http://93.152.174.144:4000/play/sic/index.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png" group-title="Undefined",PT - TVI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjMgNzowOjQzIFBNJmhhc2hfdmFsdWU9ZlpaQ0FSS05kRGViZ1orZExESWFwQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTEyN2Y1NmEwLWRiNGUtNGQxNy04NDBmLTNhMjJjZDY5MDc5Ng==/
-#EXTINF: 0 tvg-country="PT" tvg-logo="" group-title="Undefined", PT - TVI(HD)
-https://list.iptvcat.com/my_list/s/6e56b557b1cf6b43c663e010d0f52c52.m3u8
-#EXTINF: 0 tvg-country="PT" tvg-logo="" group-title="Undefined", PT - TVI Reality
-https://list.iptvcat.com/my_list/s/9cb2121a128e844436a79271ea8a1c2b.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",PT - SIC Radical
 http://2hubs.ddns.net:25461/BabNour/telegrramm/62068?checkedby:iptvcat.org
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",PT - SIC MULHER
