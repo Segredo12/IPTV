@@ -25,6 +25,8 @@ https://sic.live.impresa.pt/sic.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjMgNzowOjQzIFBNJmhhc2hfdmFsdWU9ZlpaQ0FSS05kRGViZ1orZExESWFwQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTEyN2Y1NmEwLWRiNGUtNGQxNy04NDBmLTNhMjJjZDY5MDc5Ng==/
+#EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png" group-title="Undefined",PT - TVI (HD)
+https://list.iptvcat.com/my_list/s/6e56b557b1cf6b43c663e010d0f52c52.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",PT - SIC Radical
 http://2hubs.ddns.net:25461/BabNour/telegrramm/62068?checkedby:iptvcat.org
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",PT - SIC MULHER
