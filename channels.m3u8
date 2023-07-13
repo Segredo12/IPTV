@@ -31,8 +31,6 @@ http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224047
 http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/131100
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",RTP Memoria
 http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/131101
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Entertainment 
-http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/225755
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Fox
 http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/160029
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Fox Crime
@@ -63,8 +61,6 @@ http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224005
 http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224058
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Dizi Channel
 http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224004
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",News
-http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/225773
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Porto Canal
 http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224042
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",TVI 24
@@ -91,8 +87,6 @@ http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224010
 http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224000
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Record News
 http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224043
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Music
-http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/225772
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Afro Music
 http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/131068
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Mezzo
@@ -115,8 +109,6 @@ http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224059
 http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224060
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Zap Viva
 http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224077
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Kids
-http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/225754
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",SIC Kids
 http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224052
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Baby TV
@@ -145,8 +137,6 @@ http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224011
 http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224025
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Jim Jam
 http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224020
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Films
-http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/225765
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",TVCine +
 http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224065
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",TVCine Top
@@ -177,8 +167,6 @@ http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/160073
 http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224013
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Globo Premium
 http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224015
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",EDU and DOC
-http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/225757
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Blaze
 http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/159999
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Cacavision
@@ -257,3 +245,55 @@ http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224041
 http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224032
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Canal 11
 http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/160003
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",NBA
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224033
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",UFC Fight Pass
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224073
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Fight Network
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224009
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",NFL Network
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224034
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",CMTV
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/238126
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",ELEVEN SPORTS 1
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/122200.ts
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",ELEVEN SPORTS 2
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/122201.ts
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",ELEVEN SPORTS 3
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/122202.ts
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",ELEVEN SPORTS 4
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/122203.ts
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",ELEVEN SPORTS 5
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/122204.ts
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",EUROSPORT 1
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/122207.ts
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",SPORT TV 1
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/122236.ts
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",SPORT TV 2
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/122237.ts
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",SPORT TV 3
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/122238.ts
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Adulto +18",Playboy HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4324
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Adulto +18",Venus
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/577
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Adulto +18",Sextream
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/578
+
+#EXTINF: -1,☰ Filmes
+#EXTINF:-1,O Senhor dos Anéis: A Sociedade do Anel (2001)
+http://51.222.87.103:8880/movie/DQ-NOVO500/ziqDdRRQ6c/14235.mp4
+#EXTINF:-1,O Senhor dos Anéis: As Duas Torres (2002)
+http://51.222.87.103:8880/movie/DQ-NOVO500/ziqDdRRQ6c/14236.mp4
+#EXTINF:-1,O Senhor dos Anéis: O Retorno do Rei (2003)
+http://51.222.87.103:8880/movie/DQ-NOVO500/ziqDdRRQ6c/14237.mp4
+#EXTINF:-1,O Predador (2018)
+http://51.222.87.103:8880/movie/DQ-NOVO500/ziqDdRRQ6c/13395.mkv
+#EXTINF:-1,A Era do Gelo (2002)
+http://51.222.87.103:8880/movie/DQ-NOVO500/ziqDdRRQ6c/11220.mp4
+#EXTINF:-1,A Era do Gelo 2 (2006)
+http://51.222.87.103:8880/movie/DQ-NOVO500/ziqDdRRQ6c/11199.mp4
+#EXTINF:-1,A Era do Gelo 3 (2009)
+http://51.222.87.103:8880/movie/DQ-NOVO500/ziqDdRRQ6c/11188.mp4
+#EXTINF:-1,A Era do Gelo 4 (2012)
+http://51.222.87.103:8880/movie/DQ-NOVO500/ziqDdRRQ6c/11189.mp4
