@@ -1,10 +1,272 @@
 #EXTM3U
+--Canais Portugueses--
+
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",RTP 1
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/130916
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",RTP 2
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/130917
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",RTP 3
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/130918
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",TVI HD
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/130920
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",SIC
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/130919
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",SIC Noticias
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/130922
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",SIC Radical
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/130934
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",SIC Mulher
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/130935
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",SIC Caras
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/130936
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",SIC 1080
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224049
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",SIC International
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224051
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",TPA International
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/131114
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",NOS Studios
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/223994
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",RTP Madeira
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224047
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",RTP Açores
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/131100
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",RTP Memoria
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/131101
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Entertainment 
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/225755
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Fox
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/160029
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Fox Crime
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/131046
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",SyFy
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/131053
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Fox Comedy
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/131047
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",24 Kitchen
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/130946
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Casa E Cozinha
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/130945
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Food Network
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/160028
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",TLC
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/160061
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",E! Entertainment 
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224006
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Fashion TV
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224008
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",BBC Entertainment 
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/223986
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Fox Life
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/131052
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Dog TV
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224005
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Toros TV
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224058
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Dizi Channel
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224004
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",News
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/225773
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Porto Canal
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224042
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",TVI 24
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/130923
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Euronews
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/130928
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Localvisao
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224024
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Bloomberg
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/223988
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Kuriakos
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/160038
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",AR TV
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/223983
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",11 TV
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/223980
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Now
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224036
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",RTP Africa
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224044
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Fox News
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224010
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",CNBC
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224000
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Record News
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224043
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Music
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/225772
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Afro Music
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/131068
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Mezzo
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/131075
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Alma Lusa
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/223982
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Clubbing TV
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/223999
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",MCM Pop
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224027
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",MTV
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224028
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",MTV 00's
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224029
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",MTV Portugal
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224031
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Trace Toca
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224059
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Trace Urban
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224060
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Zap Viva
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224077
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Kids
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/225754
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",SIC Kids
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224052
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Baby TV
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/159995
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Disney Channel
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/131054
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Disney Junior
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/131055
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Disney+
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224003
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Cartoon Network
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/131063
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Nickelodeon
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/131060
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Nick Jr
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/160045
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Panda Biggs
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/160005
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Panda Kids
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224040
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Kuriakos Kids TV
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224021
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Gametoon
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224011
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Lolly Kids
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224025
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Jim Jam
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224020
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Films
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/225765
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",TVCine +
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224065
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",TVCine Top
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/131037
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",TVCine Edition
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/131038
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",TVCine Emotion
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/131039
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",TVCine Action
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/131040
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Fox Movies
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/131041
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",AMC
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/131049
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",AXN
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/131050
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",AXN White
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/131044
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",AXN Movies 
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/131045
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Cinemundo
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/131042
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Hollywood
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224018
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",TVI Ficcao
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/160073
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Globo 
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224013
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Globo Premium
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224015
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",EDU and DOC
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/225757
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Blaze
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/159999
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Cacavision
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/160002
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Odisseia
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/160046
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Caca E Pesca
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/160001
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Discovery Channel
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/131080
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Discovery Investigation
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/131077
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Crime Investigation 
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/131094
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",National Geographic
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/131078
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Nat Geo Wild
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/131079
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Cancao Nova
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/131090
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Campo Pequeno TV
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/223990
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Historia
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224017
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Canal Histia
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/223991
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Ca Amp Pesca
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/223995
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Caca e Pesca
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/223996
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Canal 180
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/131089
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Cavision
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/223997
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Outdoor
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224038
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Travel Channel
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224061
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",TravelXP
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224062
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",TV Record
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/159991
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Canal Q
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/160006
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",CBS Reality
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/223998
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",TVI Reality
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224066
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",TVI Reality Mosaico
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224071
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",TVI Reality Cam 1
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224067
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",TVI Reality Cam 2
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224068
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",A Bola
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/159993
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Canal Moto GP
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/223993
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Motorvision
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/130975
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Benfica TV
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/159998
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",RTP Arena
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224045
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Combat
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/130974
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Fuel TV
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/130976
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Ginx
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224012
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",BTV HD
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224091
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",PFC
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224041
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",M Chic
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/224032
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Canal Português",Canal 11
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/160003
+
+
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",PT - RTP 1
-http://2hubs.ddns.net:25461/BabNour/telegrramm/62052?checkedby:iptvcat.org
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/130916
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",PT - RTP 2
-http://2hubs.ddns.net:25461/BabNour/telegrramm/62053?checkedby:iptvcat.org
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/130917
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",PT - RTP 3
-http://2hubs.ddns.net:25461/BabNour/telegrramm/62055?checkedby:iptvcat.org
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/130918
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",PT - RTP Africa
 http://2hubs.ddns.net:25461/BabNour/telegrramm/62056?checkedby:iptvcat.org
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",PT - RTP Açores
@@ -21,14 +283,8 @@ http://93.152.174.144:4000/play/sic/index.m3u8
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 #EXTINF:-1 tvg-id="SIC.pt",PT - SIC (1080p) [Geo-blocked]
 https://sic.live.impresa.pt/sic.m3u8
-#EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png" group-title="Undefined",PT - TVI (#1)
-https://list.iptvcat.com/my_list/s/b7255d20bc686831bd846affc9456f6d.m3u8
-#EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png" group-title="Undefined",PT - TVI (#2)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjMgNzowOjQzIFBNJmhhc2hfdmFsdWU9ZlpaQ0FSS05kRGViZ1orZExESWFwQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTEyN2Y1NmEwLWRiNGUtNGQxNy04NDBmLTNhMjJjZDY5MDc5Ng==/
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png" group-title="Undefined",PT - TVI (HD)
-https://list.iptvcat.com/my_list/s/6e56b557b1cf6b43c663e010d0f52c52.m3u8
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/130920
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",PT - SIC Radical
 http://2hubs.ddns.net:25461/BabNour/telegrramm/62068?checkedby:iptvcat.org
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",PT - SIC MULHER
