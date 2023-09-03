@@ -20,7 +20,7 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 #EXTINF:-1 group-title="TV" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDIzIDU6MDo1MSBQTSZoYXNoX3ZhbHVlPWRKR2Y4T2dVVVVYeDJvQ0lJQ2RmQXc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1lOWU1NGRhMi1jYzAxLTRkNmYtYThjMS0xYzVlZDczYzU0ZDI=/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjMgMTA6MDo1NiBQTSZoYXNoX3ZhbHVlPWZlV1VSTnJVNVI5M2VldGpmZHM5WHc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wMDgzYjc5OC04MTgxLTRhZjktOWEyNS1kOTdiMzlmMDdlNGI=/
 
 #EXTINF:-1 group-title="TV" tvg-id="rtp3hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3
 #EXTVLCOPT:http-user-agent=Firefox
