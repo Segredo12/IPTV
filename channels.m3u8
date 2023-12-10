@@ -22,7 +22,16 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 #EXTINF:-1 tvg-id="TVI" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png" group-title="General" ,TVI
 https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMyA2OjA6NDAgUE0maGFzaF92YWx1ZT1QQmwrUkJaZkVsQ1UzTzVyeXVaSm5RPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9M2M1N2MyMGUtOTcxYy00YzE3LTg0OWQtOWQzZjIxZjE2OTNm/
 
-#EXTINF:-1 tvg-id="RTP Madeira" tvg-logo="https://i.imgur.com/nJNWTqA.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Madeira (504p) [Not 24/7]
+#EXTINF:-1,SPORT TV 1 (PT)
+http://balkan-x.net:80/live/3U0BE3nCoy/PE1b9KXPIE/690.ts
+#EXTINF:-1,SPORT TV 2 (PT)
+http://balkan-x.net:80/live/3U0BE3nCoy/PE1b9KXPIE/691.ts
+#EXTINF:-1,SPORT TV 3 (PT)
+http://balkan-x.net:80/live/3U0BE3nCoy/PE1b9KXPIE/692.ts
+#EXTINF:-1,SPORT TV 4 (PT)
+http://balkan-x.net:80/live/3U0BE3nCoy/PE1b9KXPIE/693.ts
+#EXTINF:-1,SPORT TV 5 (PT)
+http://balkan-x.net:80/live/3U0BE3nCoy/PE1b9KXPIE/694.ts
 
 #EXTINF:-1 tvg-id="Sport TV" tvg-name="SPORT TV" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png" group-title="General",SPORT TV
 http://sansat.net:88/02024036717143/mS34FIbmhBXJjsp/95407
