@@ -24,7 +24,16 @@ https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX
 
 #EXTINF:-1 tvg-id="RTP Madeira" tvg-logo="https://i.imgur.com/nJNWTqA.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Madeira (504p) [Not 24/7]
 
-#EXTINF:-1,PT: BTV1
+#EXTINF:-1 tvg-id="AXN" ,AXN
+http://abc123.digital:8080/miguel_villarrea@hotmail.com/Zjzq7KJjpc/495167
+
+#EXTINF:-1 tvg-id="AXN Movies" ,AXN Movies
+http://abc123.digital:8080/miguel_villarrea@hotmail.com/Zjzq7KJjpc/495168
+
+#EXTINF:-1 tvg-id="AXN White" ,AXN White
+http://abc123.digital:8080/miguel_villarrea@hotmail.com/Zjzq7KJjpc/495169
+
+#EXTINF:-1 tvg-id="BTV1" ,BTV1
 http://abc123.digital:8080/miguel_villarrea@hotmail.com/Zjzq7KJjpc/495174
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
