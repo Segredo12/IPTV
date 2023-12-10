@@ -33,39 +33,6 @@ http://balkan-x.net:80/live/3U0BE3nCoy/PE1b9KXPIE/693.ts
 #EXTINF:-1,SPORT TV 5 (PT)
 http://balkan-x.net:80/live/3U0BE3nCoy/PE1b9KXPIE/694.ts
 
-#EXTINF:-1 tvg-id="Sport TV" tvg-name="SPORT TV" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png" group-title="General",SPORT TV
-http://sansat.net:88/02024036717143/mS34FIbmhBXJjsp/95407
-
-#EXTINF:-1 tvg-id="Sport TV 1 HD" tvg-name="PT: SPORT TV 1 HD" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV_1_HD.png" group-title="General",SPORT TV 1 HD
-http://sansat.net:88/02024036717143/mS34FIbmhBXJjsp/95408
-
-#EXTINF:-1 tvg-id="Sport TV 1 HD NOS" tvg-name="SPORT TV 1 HD NOS" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV_1_HD.png" group-title="General",PT: SPORT TV 1 HD NOS
-http://sansat.net:88/02024036717143/mS34FIbmhBXJjsp/95409
-
-#EXTINF:-1 tvg-id="Sport TV" tvg-name="SPORT TV 1" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV_1_HD.png" group-title="General",SPORT TV 1
-http://sansat.net:88/02024036717143/mS34FIbmhBXJjsp/95410
-
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2 HD" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV_2_HD.png" group-title="General",PT: SPORT TV 2 HD
-http://sansat.net:88/02024036717143/mS34FIbmhBXJjsp/95411
-
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT TV 3 HD" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV_3_HD.png" group-title="General",PT: SPORT TV 3 HD
-http://sansat.net:88/02024036717143/mS34FIbmhBXJjsp/95413
-
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT TV 3" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV_3_HD.png" group-title="General",SPORT TV 3
-http://sansat.net:88/02024036717143/mS34FIbmhBXJjsp/95414
-
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT TV 4" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/Sport_TV_4_HD.png" group-title="General",SPORT TV 4
-http://sansat.net:88/02024036717143/mS34FIbmhBXJjsp/95415
-
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SPORT TV 5" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/Sport_TV_5_HD.png" group-title="General",SPORT TV 5
-http://sansat.net:88/02024036717143/mS34FIbmhBXJjsp/95416
-
-#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="SPORT TV 6 HD" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/Sport_TV_6_HD.png" group-title="General",SPORT TV 6 HD
-http://sansat.net:88/02024036717143/mS34FIbmhBXJjsp/200526
-
-#EXTINF:-1 tvg-id="benficatv" tvg-name="BENFICA TV HD" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/BENFICA.png" group-title="General",BENFICA TV HD
-http://sansat.net:88/02024036717143/mS34FIbmhBXJjsp/200525
-
 #EXTINF:-1 tvg-id="SIC Novelas.pt" tvg-logo="https://i.ibb.co/5hQrgqd/SICNovelas.png" group-title="Series",SIC Novelas (720p)
 https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
 
