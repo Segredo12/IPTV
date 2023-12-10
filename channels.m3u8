@@ -31,64 +31,18 @@ https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas
 #EXTINF:-1 tvg-id="TVI Ficcao" tvg-logo="https://i.imgur.com/gK3lRtZ.png" group-title="Undefined",TVI Ficção (480p) [Geo-blocked]
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 
-#EXTINF:-1,PT:SPORT TV 1 HD
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2302.ts
-#EXTINF:-1,PT:SPORT TV 2 HD
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2301.ts
-#EXTINF:-1,PT:SPORT TV 3 HD
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2300.ts
-#EXTINF:-1,PT:SPORT TV 4 HD
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2299.ts
-#EXTINF:-1,PT:SPORT TV 5 HD
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2298.ts
-#EXTINF:-1,PT:SPORTING TV HD
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2297.ts
-
-#EXTINF:-1,|PT| TV CINE 1
-http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4386.ts
-#EXTINF:-1,|PT| TV CINE 2
-http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4387.ts
-#EXTINF:-1,|PT| TV CINE 3
-http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4388.ts
-#EXTINF:-1,|PT| TV CINE 4
-http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4389.ts
-#EXTINF:-1,|PT| TV SERIES
-http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4425.ts
-#EXTINF:-1,|PT| HOLLYWOOD
-http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4413.ts
-#EXTINF:-1,|PT| FOX CRIME HD
-http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4415.ts
-#EXTINF:-1,|PT| DISNEY JUNIOR
-http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4455.ts
-#EXTINF:-1,|PT| CANAL PANDA
-http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4450.ts
-
-#EXTINF:-1,|PT| FOX MOVIES HD
-http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4430.ts
-#EXTINF:-1,|PT| FOX COMEDY
-http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4435.ts
-#EXTINF:-1,|PT| FOX HD
-http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4421.ts
-
-#EXTINF:-1,|PT| AXN HD
-http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4432.ts
-#EXTINF:-1,|PT| AXN WHITE HD
-http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4431.ts
-#EXTINF:-1,|PT| AXN BLACK HD
-http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/4433.ts
-
-#EXTINF:-1,BR3: Discovery Channel
-http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26466.ts
-#EXTINF:-1,BR3: Discovery Civilization
-http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26465.ts
-#EXTINF:-1,BR3: Discovery H&H
-http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26464.ts
-#EXTINF:-1,BR3: Discovery Kids
-http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26463.ts
-#EXTINF:-1,BR3: Discovery Science
-http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26462.ts
-#EXTINF:-1,BR3: Discovery Turbo
-http://94.102.57.135:8000/live/1b3StbJgtn/Y6YHSXcldA/26461.ts
+#EXTINF:-1,PT: SPORT TV 1
+http://aanax.com:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/1483
+#EXTINF:-1,PT: SPORT TV 2
+http://aanax.com:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/1486
+#EXTINF:-1,PT: SPORT TV 3
+http://aanax.com:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/1489
+#EXTINF:-1,PT: SPORT TV 4
+http://aanax.com:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/1492
+#EXTINF:-1,PT: SPORT TV 5
+http://aanax.com:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/1495
+#EXTINF:-1,PT: SPORT TV 6
+http://aanax.com:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/281487
 
 #EXTINF:-1 tvg-id="TV Cancao Nova" tvg-logo="https://i.imgur.com/rSmwbkj.png" group-title="Undefined",TV Canção Nova Portugal (720p)
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/playlist.m3u8
