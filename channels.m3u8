@@ -2,50 +2,138 @@
 
 # M3UPT.com - IPTV playlist in M3U format with 📺 TV channels and 📻 radio stations in 🇵🇹 Portuguese. Public and official streams only.
 
-# 📺 TV
+# 📺 Information
 
-#EXTINF:-1 tvg-id="RTP 1" tvg-logo="https://i.imgur.com/w7GV86i.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP 1 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="RTP 1" tvg-logo="https://i.imgur.com/w7GV86i.png" group-title="Information" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP 1 (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTP 2" tvg-logo="https://i.imgur.com/T6WUqdn.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP 2 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="RTP 2" tvg-logo="https://i.imgur.com/T6WUqdn.png" group-title="Information" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP 2 (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTP 3" tvg-logo="https://i.imgur.com/ohXJmiR.png" group-title="News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP 3 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="RTP 3" tvg-logo="https://i.imgur.com/ohXJmiR.png" group-title="Information" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP 3 (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SIC" tvg-logo="https://i.imgur.com/SPMqiDG.png" group-title="General",SIC (1080p)
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:-1 tvg-id="SIC" tvg-logo="https://i.imgur.com/SPMqiDG.png" group-title="Information",SIC (1080p)
+https://list.iptvcat.com/my_list/s/b49cac743b4b93712401c305c942403c.m3u8
 
-#EXTINF:-1 tvg-id="TVI" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png" group-title="General" ,TVI
+#EXTINF:-1 tvg-id="TVI" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png" group-title="Information" ,TVI
 https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMyA2OjA6NDAgUE0maGFzaF92YWx1ZT1QQmwrUkJaZkVsQ1UzTzVyeXVaSm5RPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9M2M1N2MyMGUtOTcxYy00YzE3LTg0OWQtOWQzZjIxZjE2OTNm/
 
-#EXTINF:-1 tvg-id="CNNPortugal.pt",CNN Portugal (720p)
+#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-logo="" group-title="Information",CNN Portugal (720p)
 https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
 
-#EXTINF:-1 tvg-id="SIC Novelas.pt" tvg-logo="https://i.ibb.co/5hQrgqd/SICNovelas.png" group-title="Series",SIC Novelas (720p)
+#EXTINF:-1 tvg-id="CMTV PT" tvg-logo="" group-title="Information",CMTV PT
+https://list.iptvcat.com/my_list/s/68ebd46c0049f2ecb2570da4880502d4.m3u8
+
+#EXTINF:-1 tvg-id="SIC Novelas.pt" tvg-logo="https://i.ibb.co/5hQrgqd/SICNovelas.png" group-title="Information",SIC Novelas (720p)
 https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
 
-#EXTINF:-1 tvg-id="TVI Ficcao" tvg-logo="https://i.imgur.com/gK3lRtZ.png" group-title="Undefined",TVI Ficção (480p) [Geo-blocked]
+#EXTINF:-1 tvg-id="SIC Caras" tvg-logo="" group-title="Information",SIC Caras
+https://list.iptvcat.com/my_list/s/4b13acec6910d30a3213d66b4d6c8a77.m3u8
+
+#EXTINF:-1 tvg-id="TVI Ficcao" tvg-logo="https://i.imgur.com/gK3lRtZ.png" group-title="Information",TVI Ficção (480p) [Geo-blocked]
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 
-#EXTINF:-1,PT: SPORT TV 1
-http://aanax.com:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/1483
-#EXTINF:-1,PT: SPORT TV 2
-http://aanax.com:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/1486
-#EXTINF:-1,PT: SPORT TV 3
-http://aanax.com:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/1489
-#EXTINF:-1,PT: SPORT TV 4
-http://aanax.com:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/1492
-#EXTINF:-1,PT: SPORT TV 5
-http://aanax.com:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/1495
-#EXTINF:-1,PT: SPORT TV 6
-http://aanax.com:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/281487
+#EXTINF:-1 tvg-id="ADB TV" tvg-logo="" group-title="Information",ADB TV (1080p)
+https://list.iptvcat.com/my_list/s/c9d59763943c09344d9a4b7b124484bc.m3u8
 
-#EXTINF:-1 tvg-id="TV Cancao Nova" tvg-logo="https://i.imgur.com/rSmwbkj.png" group-title="Undefined",TV Canção Nova Portugal (720p)
+# 📺 Sports
+
+#EXTINF:-1 tvg-id="Sport TV 1 PT" tvg-logo="" group-title="Sports",Sport TV 1 PT
+https://list.iptvcat.com/my_list/s/2e68a02219bc94b4c8d02a6f2be9e633.m3u8
+
+#EXTINF:-1 tvg-id="Sport TV 2 PT" tvg-logo="" group-title="Sports",Sport TV 2 PT
+https://list.iptvcat.com/my_list/s/2c0a0b4bdbece0e314e5c318e70d539b.m3u8
+
+#EXTINF:-1 tvg-id="Sport TV 3 PT" tvg-logo="" group-title="Sports",Sport TV 3 PT
+https://list.iptvcat.com/my_list/s/17905886e9108ef896713847cacba034.m3u8
+
+#EXTINF:-1 tvg-id="Sport TV 4 PT" tvg-logo="" group-title="Sports",Sport TV 4 PT
+https://list.iptvcat.com/my_list/s/6fd352398ca33f51aa7fd77749bbdeb9.m3u8
+
+#EXTINF:-1 tvg-id="Sport TV 5 PT" tvg-logo="" group-title="Sports",Sport TV 5 PT
+https://list.iptvcat.com/my_list/s/98c7fed743c602cd6c08fdaaf09949a1.m3u8
+
+#EXTINF:-1 tvg-id="Sport TV 6" tvg-logo="" group-title="Sports",Sport TV 6
+https://list.iptvcat.com/my_list/s/219b3641faf0fd547fbffc1369ff95d3.m3u8
+
+#EXTINF:-1 tvg-id="Sport TV Plus" tvg-logo="" group-title="Sports",Sport TV Plus
+https://list.iptvcat.com/my_list/s/5bf8600428192faa5904ee22a824c69a.m3u8
+
+#EXTINF:-1 tvg-id="Benfica TV PT" tvg-logo="" group-title="Sports",Benfica TV PT
+https://list.iptvcat.com/my_list/s/c17c0cdc84b1e78fd071928caff4d5e2.m3u8
+
+#EXTINF:-1 tvg-id="Bola TV" tvg-logo="" group-title="Sports",Bola TV
+https://list.iptvcat.com/my_list/s/c9561aba60056ff49469f2716682ef6f.m3u8
+
+#EXTINF:-1 tvg-id="Eleven Sports 1 PT" tvg-logo="" group-title="Sports",Eleven Sports 1 PT
+https://list.iptvcat.com/my_list/s/97bbe536f260a050e45295957900e65c.m3u8
+
+#EXTINF:-1 tvg-id="Eleven Sports 2 PT" tvg-logo="" group-title="Sports",Eleven Sports 2 PT
+https://list.iptvcat.com/my_list/s/cbdad257d5879cb5351c74050113fca0.m3u8
+
+#EXTINF:-1 tvg-id="Eleven Sports 3 PT" tvg-logo="" group-title="Sports",Eleven Sports 3 PT
+https://list.iptvcat.com/my_list/s/9f0186cec8b51b98c52b200ecb650147.m3u8
+
+#EXTINF:-1 tvg-id="Eleven Sports 4 PT" tvg-logo="" group-title="Sports",Eleven Sports 4 PT
+https://list.iptvcat.com/my_list/s/2ee9f32eb99e3f68c139491450c81c75.m3u8
+
+#EXTINF:-1 tvg-id="Eleven Sports 5 PT" tvg-logo="" group-title="Sports",Eleven Sports 5 PT
+https://list.iptvcat.com/my_list/s/9d54295742b0800fb526c47493c9db11.m3u8
+
+#EXTINF:-1 tvg-id="Eleven Sports 6 PT" tvg-logo="" group-title="Sports",Eleven Sports 6 PT
+https://list.iptvcat.com/my_list/s/b65c4d15517e7fd6d4720e7520788aab.m3u8
+
+# 📺 Series & Films
+
+#EXTINF:-1 tvg-id="AXN PT" tvg-logo="" group-title="Series & Films",AXN PT
+https://list.iptvcat.com/my_list/s/ed1f325a9d3dcd9abfe696ff95f9cbe4.m3u8
+
+#EXTINF:-1 tvg-id="FOX PT" tvg-logo="" group-title="Series & Films",FOX PT
+https://list.iptvcat.com/my_list/s/3b5c429372541a867f3fbe1c465ed2ea.m3u8
+
+#EXTINF:-1 tvg-id="FOX Movies" tvg-logo="" group-title="Series & Films",FOX Movies
+https://list.iptvcat.com/my_list/s/6347c4e320c2e588bbd27a02da89bddc.m3u8
+
+#EXTINF:-1 tvg-id="FOX Crime PT" tvg-logo="" group-title="Series & Films",FOX Crime PT
+https://list.iptvcat.com/my_list/s/24acd454143f13b8d1ee7ff3486a30e3.m3u8
+
+#EXTINF:-1 tvg-id="FOX Comedy" tvg-logo="" group-title="Series & Films",FOX Comedy
+https://list.iptvcat.com/my_list/s/5dfbd5e0cf7599bfc2209cbe87d74e20.m3u8
+
+#EXTINF:-1 tvg-id="FOX Life PT" tvg-logo="" group-title="Series & Films",FOX Life PT
+https://list.iptvcat.com/my_list/s/fc1caddce429e6a22185d69c64bd2c7c.m3u8
+
+#EXTINF:-1 tvg-id="Canal Hollywood" tvg-logo="" group-title="Series & Films",Canal Hollywood
+https://list.iptvcat.com/my_list/s/9fb4d595a096fe845ff4709ea1ac6ad7.m3u8
+
+#EXTINF:-1 tvg-id="TV Cine 1 PT" tvg-logo="" group-title="Series & Films",TV Cine 1 PT
+https://list.iptvcat.com/my_list/s/5cd99ce4873eefb7e1001a4f6180e08a.m3u8
+
+#EXTINF:-1 tvg-id="TV Cine 2 PT" tvg-logo="" group-title="Series & Films",TV Cine 2 PT
+https://list.iptvcat.com/my_list/s/842dc63acfd6be96cc4f5bca9bc2bed9.m3u8
+
+# 📺 Children
+
+#EXTINF:-1 tvg-id="NICK JR" tvg-logo="" group-title="Children",NICK JR
+https://list.iptvcat.com/my_list/s/6326f7ae2ccb7dc083f292eb51b519ba.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="" group-title="Children",Nickelodeon
+https://list.iptvcat.com/my_list/s/42ed4fff2fd25cb57c9121dcaa2b0d11.m3u8
+
+#EXTINF:-1 tvg-id="Canal Panda" tvg-logo="" group-title="Children",Canal Panda
+https://list.iptvcat.com/my_list/s/35622083787054b6c8fdfdb1960b1299.m3u8
+
+#EXTINF:-1 tvg-id="SIC K" tvg-logo="" group-title="Children",SIC K
+https://list.iptvcat.com/my_list/s/4a2f362be030301c0f5ccd6722ae4d92.m3u8
+
+# 📺 Religion
+
+#EXTINF:-1 tvg-id="TV Cancao Nova" tvg-logo="https://i.imgur.com/rSmwbkj.png" group-title="Religion",TV Canção Nova Portugal (720p)
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV Fatima" tvg-logo="https://i.imgur.com/0Nz2GqC.png" group-title="Religious",TV Fátima (1080p)
+#EXTINF:-1 tvg-id="TV Fatima" tvg-logo="https://i.imgur.com/0Nz2GqC.png" group-title="Religion",TV Fátima (1080p)
 https://streamer-b02.videos.sapo.pt/live/santuario/playlist.m3u8
