@@ -4,37 +4,37 @@
 
 # 📺 Information
 
-#EXTINF:-1 tvg-id="RTP 1" tvg-logo="https://i.imgur.com/w7GV86i.png" group-title="Information" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP 1 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="RTP 1" tvg-country="PT" tvg-logo="https://i.imgur.com/w7GV86i.png" group-title="Information" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP 1 (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTP 2" tvg-logo="https://i.imgur.com/T6WUqdn.png" group-title="Information" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP 2 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="RTP 2" tvg-country="PT" tvg-logo="https://i.imgur.com/T6WUqdn.png" group-title="Information" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP 2 (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTP 3" tvg-logo="https://i.imgur.com/ohXJmiR.png" group-title="Information" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP 3 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="RTP 3" tvg-country="PT" tvg-logo="https://i.imgur.com/ohXJmiR.png" group-title="Information" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP 3 (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SIC" tvg-logo="https://i.imgur.com/SPMqiDG.png" group-title="Information",SIC (1080p)
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:-1 tvg-id="SIC" tvg-country="PT" tvg-logo="https://i.imgur.com/SPMqiDG.png" group-title="Information",SIC (1080p)
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/211867
 
-#EXTINF:-1 tvg-id="TVI" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png" group-title="Information" ,TVI
+#EXTINF:-1 tvg-id="TVI" tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png" group-title="Information" ,TVI
 https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMyA2OjA6NDAgUE0maGFzaF92YWx1ZT1QQmwrUkJaZkVsQ1UzTzVyeXVaSm5RPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9M2M1N2MyMGUtOTcxYy00YzE3LTg0OWQtOWQzZjIxZjE2OTNm/
 
-#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-logo="" group-title="Information",CNN Portugal (720p)
+#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-country="PT" tvg-logo="" group-title="Information",CNN Portugal (720p)
 https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
 
-#EXTINF:-1 tvg-id="CMTV PT" tvg-logo="" group-title="Information",CMTV PT
+#EXTINF:-1 tvg-id="CMTV PT" tvg-country="PT" tvg-logo="" group-title="Information",CMTV PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cmtv.pt.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="SIC Novelas.pt" tvg-logo="https://i.ibb.co/5hQrgqd/SICNovelas.png" group-title="Information",SIC Novelas (720p)
+#EXTINF:-1 tvg-id="SIC Novelas.pt" tvg-country="PT" tvg-logo="https://i.ibb.co/5hQrgqd/SICNovelas.png" group-title="Information",SIC Novelas (720p)
 https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
 
-#EXTINF:-1 tvg-id="SIC Caras" tvg-logo="" group-title="Information",SIC Caras
+#EXTINF:-1 tvg-id="SIC Caras" tvg-country="PT" tvg-logo="" group-title="Information",SIC Caras
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sic.caras.pt.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="TVI Ficcao" tvg-logo="https://i.imgur.com/gK3lRtZ.png" group-title="Information",TVI Ficção (480p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TVI Ficcao" tvg-country="PT" tvg-logo="https://i.imgur.com/gK3lRtZ.png" group-title="Information",TVI Ficção (480p) [Geo-blocked]
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ADB TV" tvg-logo="" group-title="Information",ADB TV (1080p)
@@ -42,78 +42,75 @@ https://list.iptvcat.com/my_list/s/c9d59763943c09344d9a4b7b124484bc.m3u8
 
 # 📺 Sports
 
-#EXTINF:-1 tvg-id="Sport TV 1 PT" tvg-logo="" group-title="Sports",Sport TV 1 PT
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv1.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="Sport TV 1 PT" tvg-country="PT" tvg-logo="" group-title="Sports",Sport TV 1 PT
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/211878
 
-#EXTINF:-1 tvg-id="Sport TV 2 PT" tvg-logo="" group-title="Sports",Sport TV 2 PT
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv2.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="Sport TV 2 PT" tvg-country="PT" tvg-logo="" group-title="Sports",Sport TV 2 PT
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/211879
 
-#EXTINF:-1 tvg-id="Sport TV 3 PT" tvg-logo="" group-title="Sports",Sport TV 3 PT
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv3.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="Sport TV 3 PT" tvg-country="PT" tvg-logo="" group-title="Sports",Sport TV 3 PT
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/211880
 
-#EXTINF:-1 tvg-id="Sport TV 4 PT" tvg-logo="" group-title="Sports",Sport TV 4 PT
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv4.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="Sport TV 4 PT" tvg-country="PT" tvg-logo="" group-title="Sports",Sport TV 4 PT
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/211881
 
-#EXTINF:-1 tvg-id="Sport TV 5 PT" tvg-logo="" group-title="Sports",Sport TV 5 PT
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv5.pt.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-id="Sport TV 6" tvg-logo="" group-title="Sports",Sport TV 6
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv6.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="Sport TV 5 PT" tvg-country="PT" tvg-logo="" group-title="Sports",Sport TV 5 PT
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/211882
 
 #EXTINF:-1 tvg-id="Sport TV Plus" tvg-logo="" group-title="Sports",Sport TV Plus
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv.pt.m3u8?checkedby:iptvcat.com
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/211883
 
-#EXTINF:-1 tvg-id="Benfica TV PT" tvg-logo="" group-title="Sports",Benfica TV PT
+#EXTINF:-1 tvg-id="Benfica TV PT" tvg-country="PT" tvg-logo="" group-title="Sports",Benfica TV PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/benfica.pt.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="Bola TV" tvg-logo="" group-title="Sports",Bola TV
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bola.tv.pt.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="Eleven Sports 1 PT" tvg-logo="" group-title="Sports",Eleven Sports 1 PT
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.1.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="Eleven Sports 1 PT" tvg-country="PT" tvg-logo="" group-title="Sports",Eleven Sports 1 PT
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/211884
 
-#EXTINF:-1 tvg-id="Eleven Sports 2 PT" tvg-logo="" group-title="Sports",Eleven Sports 2 PT
+#EXTINF:-1 tvg-id="Eleven Sports 2 PT" tvg-country="PT" tvg-logo="" group-title="Sports",Eleven Sports 2 PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.2.pt.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="Eleven Sports 3 PT" tvg-logo="" group-title="Sports",Eleven Sports 3 PT
+#EXTINF:-1 tvg-id="Eleven Sports 3 PT" tvg-country="PT" tvg-logo="" group-title="Sports",Eleven Sports 3 PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.3.pt.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="Eleven Sports 4 PT" tvg-logo="" group-title="Sports",Eleven Sports 4 PT
+#EXTINF:-1 tvg-id="Eleven Sports 4 PT" tvg-country="PT" tvg-logo="" group-title="Sports",Eleven Sports 4 PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.4.pt.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="Eleven Sports 5 PT" tvg-logo="" group-title="Sports",Eleven Sports 5 PT
+#EXTINF:-1 tvg-id="Eleven Sports 5 PT" tvg-country="PT" tvg-logo="" group-title="Sports",Eleven Sports 5 PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.5.pt.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="Eleven Sports 6 PT" tvg-logo="" group-title="Sports",Eleven Sports 6 PT
+#EXTINF:-1 tvg-id="Eleven Sports 6 PT" tvg-country="PT" tvg-logo="" group-title="Sports",Eleven Sports 6 PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.6.pt.m3u8?checkedby:iptvcat.com
 
 # 📺 Series & Films
 
-#EXTINF:0 tvg-id="AXN PT" tvg-country="PT" tvg-logo="" group-title="Series & Films",AXN PT
+#EXTINF:-1 tvg-id="AXN PT" tvg-country="PT" tvg-logo="" group-title="Series & Films",AXN PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/axn.pt.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="FOX PT" tvg-logo="" group-title="Series & Films",FOX PT
+#EXTINF:-1 tvg-id="FOX PT" tvg-country="PT" tvg-logo="" group-title="Series & Films",FOX PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.pt.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="FOX Movies" tvg-logo="" group-title="Series & Films",FOX Movies
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.movies.pt.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="FOX Crime PT" tvg-logo="" group-title="Series & Films",FOX Crime PT
+#EXTINF:-1 tvg-id="FOX Crime PT" tvg-country="PT" tvg-logo="" group-title="Series & Films",FOX Crime PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.crime.pt.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="FOX Comedy" tvg-logo="" group-title="Series & Films",FOX Comedy
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.comedy.pt.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="FOX Life PT" tvg-logo="" group-title="Series & Films",FOX Life PT
+#EXTINF:-1 tvg-id="FOX Life PT" tvg-country="PT" tvg-logo="" group-title="Series & Films",FOX Life PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.life.pt.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="Canal Hollywood" tvg-logo="" group-title="Series & Films",Canal Hollywood
+#EXTINF:-1 tvg-id="Canal Hollywood" tvg-country="PT" tvg-logo="" group-title="Series & Films",Canal Hollywood
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/canal.hollywood.pt.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="TV Cine 1 PT" tvg-logo="" group-title="Series & Films",TV Cine 1 PT
+#EXTINF:-1 tvg-id="TV Cine 1 PT" tvg-country="PT" tvg-logo="" group-title="Series & Films",TV Cine 1 PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tvcine.1.pt.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="TV Cine 2 PT" tvg-logo="" group-title="Series & Films",TV Cine 2 PT
+#EXTINF:-1 tvg-id="TV Cine 2 PT" tvg-country="PT" tvg-logo="" group-title="Series & Films",TV Cine 2 PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tvcine.2.pt.m3u8?checkedby:iptvcat.com
 
 # 📺 Children
@@ -124,16 +121,16 @@ https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nick.jr
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="" group-title="Children",Nickelodeon
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nickelodeon.pt.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="Canal Panda" tvg-logo="" group-title="Children",Canal Panda
+#EXTINF:-1 tvg-id="Canal Panda" tvg-country="PT" tvg-logo="" group-title="Children",Canal Panda
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/canal.panda.pt.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="SIC K" tvg-logo="" group-title="Children",SIC K
+#EXTINF:-1 tvg-id="SIC K" tvg-country="PT" tvg-logo="" group-title="Children",SIC K
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sic.k.pt.m3u8?checkedby:iptvcat.com
 
 # 📺 Religion
 
-#EXTINF:-1 tvg-id="TV Cancao Nova" tvg-logo="https://i.imgur.com/rSmwbkj.png" group-title="Religion",TV Canção Nova Portugal (720p)
+#EXTINF:-1 tvg-id="TV Cancao Nova" tvg-country="PT" tvg-logo="https://i.imgur.com/rSmwbkj.png" group-title="Religion",TV Canção Nova Portugal (720p)
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV Fatima" tvg-logo="https://i.imgur.com/0Nz2GqC.png" group-title="Religion",TV Fátima (1080p)
+#EXTINF:-1 tvg-id="TV Fatima" tvg-country="PT" tvg-logo="https://i.imgur.com/0Nz2GqC.png" group-title="Religion",TV Fátima (1080p)
 https://streamer-b02.videos.sapo.pt/live/santuario/playlist.m3u8
