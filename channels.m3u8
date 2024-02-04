@@ -40,8 +40,96 @@ https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificca
 #EXTINF:-1 tvg-id="ADB TV" tvg-logo="" group-title="Information",ADB TV (1080p)
 https://list.iptvcat.com/my_list/s/c9d59763943c09344d9a4b7b124484bc.m3u8
 
-#EXTINF:-1 tvg-id="BF TV" tvg-country="PT" tvg-logo="",Benfica TV
-http://213.13.16.138/shls/LIVE%24Benfica_TV_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0,Sport TV+
+http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/2606.ts
+#EXTINF:0,Sport TV+
+http://vmdirect.co.uk:5001/live/w4Zc360vUq/TkJAGVxQc4/3783.ts
+#EXTINF:0,Sport TV+
+http://e2.iudtv.org:8080/live/thankyou/123/899.ts
+#EXTINF:0,Sport TV+FHD
+http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/2607.ts
+#EXTINF:0,Sport TV 1HD
+http://e2.iudtv.org:8080/live/thankyou/123/880.ts
+#EXTINF:0,Sport TV 1HD
+http://vmdirect.co.uk:5001/live/w4Zc360vUq/TkJAGVxQc4/3772.ts
+#EXTINF:0,Sport TV 1HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/5035.ts
+#EXTINF:0,Sport TV 1HD
+http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/2608.ts
+#EXTINF:0,Sport TV 1
+http://cdn.whostreams.net:8080/hls/s6m0vsdisiufp7.m3u8?s=8JfA7_uEPD8Du8_wIDbj-w&e=1540799205
+#EXTINF:0,Sport TV 1
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3013.ts
+#EXTINF:0,Sport TV 2HD
+http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/2611.ts
+#EXTINF:0,Sport TV 2HD
+http://e2.iudtv.org:8080/live/thankyou/123/881.ts
+#EXTINF:0,Sport TV 2HD
+https://sport7.pw/lba/123/g7/Sport2PT.m3u8
+#EXTINF:0,Sport TV 2
+http://vmdirect.co.uk:5001/live/w4Zc360vUq/TkJAGVxQc4/3771.ts
+#EXTINF:0,Sport TV 2
+http://103.194.168.199:8081/live/EQ5Nb18q/chunks.m3u8?nimblesessionid=255412&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAxOCA0OjQzOjQ0IFBNJmhhc2hfdmFsdWU9MU90eGM4cDVXc3JpWFM3VzNBbi9rUT09JnZhbGlkbWludXRlcz0xMjA=
+#EXTINF:0,Sport TV 2HD
+http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/2610.ts
+#EXTINF:0,Sport TV 2HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3014.ts
+#EXTINF:0,Sport TV 2
+http://cdn.whostreams.net:8080/hls/2dbrbt50ibw21jq.m3u8?s=8SieM4qY18g73Aavg7z1Kw&e=1540799259
+#EXTINF:0,Sport TV 3HD
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/5033.ts
+#EXTINF:0,Sport TV 3HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3015.ts
+#EXTINF:0,Sport TV 3HD
+http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/2613.ts
+#EXTINF:0,Sport TV 3HD
+http://vmdirect.co.uk:5001/live/w4Zc360vUq/TkJAGVxQc4/3770.ts
+#EXTINF:0,Sport TV 3HD
+http://e2.iudtv.org:8080/live/thankyou/123/882.ts
+#EXTINF:0,Sport TV 3HD
+https://cdn.whostreams.net:8443/hls/5bw0ttm.m3u8?s=lzcVLXjK9xBhO55J-yFg5A&e=1540792940
+#EXTINF:0,Sport TV 3 SD
+https://sport7.pw/lba/123/g3/SportTV3.m3u8
+#EXTINF:0,Sport TV 3
+http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/2612.ts
+#EXTINF:0,Sport TV 3
+http://cdn.whostreams.net:8080/hls/5bw0ttm.m3u8?s=Y0OVZd4MIsslIlHhslfjHg&e=1540799146
+#EXTINF:0,SPORT TV 4 
+https://cdn.whostreams.net:8443/hls/3ant1pjxw3.m3u8?s=MZR6vK4Caby2Cm0OruBgUg&e=1540793139
+#EXTINF:0,SPORT TV 4 
+http://vmdirect.co.uk:5001/live/w4Zc360vUq/TkJAGVxQc4/3769.ts
+#EXTINF:0,SPORT TV 4 
+https://sport7.pw/lba/123/g4/Sport4PT.m3u8
+#EXTINF:0,SPORT TV 4 
+http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/2614.ts
+#EXTINF:0,SPORT TV 4 
+http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/2615.ts
+#EXTINF:0,SPORT TV 4 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3017.ts
+#EXTINF:0,SPORT TV 4
+http://e2.iudtv.org:8080/live/thankyou/123/883.ts
+#EXTINF:0,Sport TV 5
+http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/2616.ts
+#EXTINF:0,Sport TV 5
+http://212.8.242.102:25461/live/fluxamibelge/PDXrdtP7y0/5031.ts
+#EXTINF:0,sport tv 5
+http://148.71.7.211:4022/udp/239.100.25.29:1234
+#EXTINF:0,sport tv 5
+http://e2.iudtv.org:8080/live/thankyou/123/884.ts
+#EXTINF:0,sport tv 5
+http://vmdirect.co.uk:5001/live/w4Zc360vUq/TkJAGVxQc4/3768.ts
+#EXTINF:0,sport tv 5
+https://sport7.pw/lba/123/g9/SportTV5.m3u8
+#EXTINF:0,sport tv 5
+http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/2617.ts
+#EXTINF:0,BENFICA TV
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4449.ts
+#EXTINF:0,BENFICA TV
+http://vmdirect.co.uk:5001/live/w4Zc360vUq/TkJAGVxQc4/3767.ts
+#EXTINF:0,BENFICA TV
+http://e2.iudtv.org:8080/live/thankyou/123/900.ts
+#EXTINF:0,BENFICA TV
+http://vip-dream-mix.zapto.org:7777/live/xhevahir/IH3ceG1ovNcvfghjk/2573.ts
 
 
 # 📺 Religion
